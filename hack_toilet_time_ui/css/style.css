@@ -1,0 +1,102 @@
+html,
+body {
+	margin:0;
+	padding:0;
+	height:100%;
+}
+
+#body-wrapper{
+	min-height:100%;
+	position:relative;
+}
+
+.navbar-header {
+	margin-top: 10px;
+	float: none;
+	text-align: center;
+	width: 100%;
+	max-width: 100%;
+}
+
+.navbar-brand  {
+	float:none;
+}
+
+#nav-bar{
+	height: 50px;
+}
+
+#wrapper{
+	top: 50px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    width: auto;
+    height: auto;
+	padding-bottom:100px;
+}
+
+#map {
+	height: 100%; 
+	width: 100%; 
+	position:absolute; 
+	left: 0;
+	margin-bottom:100px;
+	z-index: 0;
+}
+
+#ad-wrapper{
+	height: 100px;
+	width: 100%;
+	max-width: 100%;
+	position: absolute;
+	bottom: 0;
+	z-index: 99;
+}
+
+#ad-banner{
+	height: 100px;
+	border-style: solid;
+    border-width: 5px;
+	border-color: white;
+	z-index: 99;
+}
+
+#ad{
+	height: 100px;
+	width: 100%;
+	z-index: 99;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+	max-width: 100%;
+}
+
+#activity-container{
+	padding: 10px;
+}
+
+#paper-roll-img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 100%;
+	height:300px;
+}
+
+#buy-btn{
+	margin-top: 10px;
+}
+
+#response-container{
+	margin: 10px;
+}
+
+#form-container{
+	margin: 10px;
+}
+
