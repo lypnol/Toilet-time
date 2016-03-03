@@ -54,6 +54,6 @@ class Sql
 		$GLOBALS['db'] = $bdd;
 	}
 }
-Sql::init("localhost","hackathon","hacker","hacker");
+Sql::init("localhost","hackathon","user","password");
 
 ?>
