@@ -1,6 +1,5 @@
 # Toilet-time
 Jacobs hack 2015 submission using an Estimote with a Seller microcontroller to map toilet usage.
-User Interface demo: http://challengehack.com/hack
 
 ##Description
 The gist of the idea is a system so that you never have to queue for the toilet again. We approximate toilet usage with bluetooth signal strenght. 
